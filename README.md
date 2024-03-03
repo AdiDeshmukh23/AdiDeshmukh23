@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with Django Developlement and Deep Learning.
 - 💬 Ask me about Python, Django, Django REST, Machine Learning, Deep Learning
 - 📫 How to reach me  - [@Aditya Deshmukh](https://www.linkedin.com/in/aditya-deshmukh-054791234/)
-![](https://activity-graph.herokuapp.com/graph?username=AdiDeshmukh23&theme=react-dark&hide_border=true))
+![](https://activity-graph.herokuapp.com/graph?username=AdiDeshmukh23&theme=react-dark&hide_border=true)
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdiDeshmukh23&amp;show_icons=true&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true" style="max-width:100%;">
