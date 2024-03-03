@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Django, Backend Development, Audio and Image Processing for Deep Learning.
 - 🤔 I’m looking for help with Django Developlement and Deep Learning.
 - 💬 Ask me about Python, Django, Django REST, Machine Learning, Deep Learning
-- 📫 How to reach me  - [@Aditya Deshmukh](https://www.linkedin.com/in/aditya-deshmukh-054791234/))
+- 📫 How to reach me  - [@Aditya Deshmukh](https://www.linkedin.com/in/aditya-deshmukh-054791234/)
 ![](https://activity-graph.herokuapp.com/graph?username=AdiDeshmukh23&theme=react-dark&hide_border=true))
 
 <p align="center">
